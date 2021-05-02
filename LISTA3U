@@ -21,7 +21,7 @@ https://edge.cdnzzz.net:8443/hls/0e733j.m3u8?s=SexbT061aHrmST1MJqUHNg&e=16199595
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: FOX ACTION" group="Peliculas" logo="https://adictosalatele.com/logos/foxaction.png" tvg-country="MX", FOX ACTION
-https://e2.cdnfoxtv.com/ingest03/74695.m3u8?sf=R2lEaUV3bnlvbQ==&token=qB2yLlynAlL1jZ-qxcgNNA&expires=1619952702&rnd=
+https://e2.cdnfoxtv.com/ingest01/74695.m3u8?sf=R2lEaUV3bnlvbQ==&token=7Q5nuY1-ubekyuMh-8-XEw&expires=1619953873&rnd=
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: FOX SERIES" group="Peliculas" logo="https://adictosalatele.com/logos/foxseries.png" tvg-country="MX", FOX SERIES
