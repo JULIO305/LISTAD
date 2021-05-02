@@ -43,3 +43,11 @@ https://edge.cdnzzz.net:8443/hls/pnc0det5nknvqo.m3u8?s=uClvoeajX4Xj6ozoLEvM5Q&e=
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: FOX CLASSICS" group="Peliculas" logo="https://adictosalatele.com/logos/foxclassics.png" tvg-country="MX", FOX CLASSICS
 https://edge.cdnzzz.net:8443/hls/nmgmf0p714cb.m3u8?s=DqVHE91GivGaHnbLFVtPlA&e=1619961736
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX MOVIES" group="Peliculas" logo="https://adictosalatele.com/logos/foxmovies.png" tvg-country="MX", FOX MOVIES
+https://edge.cdnzzz.net:8443/hls/4dtc368405sw4mo.m3u8?s=KXx06Xuab4dGCMS2RdEwFw&e=1619962576
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX LIFE" group="Peliculas" logo="https://adictosalatele.com/logos/foxlifelatino.png" tvg-country="MX", FOX LIFE
+https://edge.cdnzzz.net:8443/hls/aa03um3.m3u8?s=SBEEhkb1NKq9FApH7QGVbg&e=1619962698
