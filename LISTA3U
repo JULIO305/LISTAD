@@ -51,3 +51,22 @@ https://edge.cdnzzz.net:8443/hls/4dtc368405sw4mo.m3u8?s=KXx06Xuab4dGCMS2RdEwFw&e
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: FOX LIFE" group="Peliculas" logo="https://adictosalatele.com/logos/foxlifelatino.png" tvg-country="MX", FOX LIFE
 https://edge.cdnzzz.net:8443/hls/aa03um3.m3u8?s=SBEEhkb1NKq9FApH7QGVbg&e=1619962698
+
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO" group="grupo nombre" logo="https://adictosalatele.com/logos/hbo.png" tvg-country="MX", HBO
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO2" group="grupo nombre" logo="https://adictosalatele.com/logos/hbo2.png" tvg-country="MX", HBO2
+https://edge.cdnzzz.net:8443/hls/x5r58d0omlmqph.m3u8?s=8Hgzdb0nQrcua2y2J81BWw&e=1619963569
+
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO PLUS" group="grupo nombre" logo="https://adictosalatele.com/logos/hboplus.png" tvg-country="MX", HBO PLUS
+https://edge.cdnzzz.net:8443/hls/3dgzjbpy.m3u8?s=DaLMmRztxiK03ZhV8UbJIg&e=1619963714
+
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO FAMILY" group="grupo nombre" logo="https://adictosalatele.com/logos/hbofamily.png" tvg-country="MX", HBO FAMILY
+https://edge.cdnzzz.net:8443/hls/mfobze65eqg.m3u8?s=Ewx_CuHKcOCaCVslspyeRA&e=1619963937
