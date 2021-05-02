@@ -70,3 +70,19 @@ https://edge.cdnzzz.net:8443/hls/3dgzjbpy.m3u8?s=DaLMmRztxiK03ZhV8UbJIg&e=161996
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: HBO FAMILY" group="grupo nombre" logo="https://adictosalatele.com/logos/hbofamily.png" tvg-country="MX", HBO FAMILY
 https://edge.cdnzzz.net:8443/hls/mfobze65eqg.m3u8?s=Ewx_CuHKcOCaCVslspyeRA&e=1619963937
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO ASIGNATURE" group="Peliculas" logo="https://adictosalatele.com/logos/hbosignature.png" tvg-country="MX", HBO ASIGNATURE
+https://edge.cdnzzz.net:8443/hls/g05mnm.m3u8?s=sgiRSgBmnaBxgO4h5pRcmg&e=1619964894
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO EXTREME" group="Peliculas" logo="https://adictosalatele.com/logos/hboxtreme.png" tvg-country="MX", HBO EXTREME
+https://edge.cdnzzz.net:8443/hls/way71f4yp5a3.m3u8?s=ZxhTcxs85G6v4rfeLPvEbg&e=1619965020
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO MUNDI" group="Peliculas" logo="https://adictosalatele.com/logos/hbomundi.png" tvg-country="MX", HBO MUNDI
+https://edge.cdnzzz.net:8443/hls/8nviuzdhm5jnu.m3u8?s=xuMZCvNT3u4iIKL_J_-gQA&e=1619965125
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: HBO POP" group="Peliculas" logo="https://adictosalatele.com/logos/hbopop.png" tvg-country="MX", HBO POP
+https://edge.cdnzzz.net:8443/hls/rvqh1fziz.m3u8?s=U9J4xsuEBRRlSrex8oLjQA&e=1619965234
