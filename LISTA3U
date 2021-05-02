@@ -86,3 +86,15 @@ https://edge.cdnzzz.net:8443/hls/8nviuzdhm5jnu.m3u8?s=xuMZCvNT3u4iIKL_J_-gQA&e=1
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: HBO POP" group="Peliculas" logo="https://adictosalatele.com/logos/hbopop.png" tvg-country="MX", HBO POP
 https://edge.cdnzzz.net:8443/hls/rvqh1fziz.m3u8?s=U9J4xsuEBRRlSrex8oLjQA&e=1619965234
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: GOLDEN" group="Peliculas" logo="https://adictosalatele.com/logos/golden.png" tvg-country="MX", GOLDEN
+https://edge.cdnzzz.net:8443/hls/lnxn10nmtnl5.m3u8?s=vghI22DfXs9y2uCPgAzU_w&e=1619965596
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: GOLDEN PLUS" group="Peliculas" logo="https://adictosalatele.com/logos/goldenplus.png" tvg-country="MX", GOLDEN PLUS
+https://edge.cdnzzz.net:8443/hls/daw8b.m3u8?s=D_7sjeqFEIf_x2xzO_ZrcA&e=1619965724
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: GOLDEN EDGE" group="Peliculas" logo="https://adictosalatele.com/logos/goldenedge.png" tvg-country="MX", GOLDEN EDGE
+https://edge.cdnzzz.net:8443/hls/aef8t7z.m3u8?s=Hrq5vB_QWvPjpURzVQ4HAw&e=1619965862
