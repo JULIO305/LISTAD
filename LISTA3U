@@ -16,5 +16,9 @@ https://edge.cdnzzz.net:8443/hls/e12qvvmfkp.m3u8?s=yhpsgUbeaYwHgGT5ffXWkQ&e=1619
 https://edge.cdnzzz.net:8443/hls/ymv0a1aobkxuf.m3u8?s=fV3XQMZPrU71kFzpzUK_JA&e=1619959106
 
 #EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: fox" group="Peliculas" logo="https://adictosalatele.com/logos/foxlatino.png" tvg-country="MX", fox
+https://edge.cdnzzz.net:8443/hls/0e733j.m3u8?s=SexbT061aHrmST1MJqUHNg&e=1619959526
+
+#EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="AR: EL TRECE" group="ENTRETENIMIENTO" logo="url" tvg-country="AR", EL TRECE
 https://edge.cdnzzz.net:8443/hls/s7smi57g.m3u8?s=Ek14OHxs3Nq1yZLZbXpQlg&e=1619954632
