@@ -98,3 +98,15 @@ https://edge.cdnzzz.net:8443/hls/daw8b.m3u8?s=D_7sjeqFEIf_x2xzO_ZrcA&e=161996572
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: GOLDEN EDGE" group="Peliculas" logo="https://adictosalatele.com/logos/goldenedge.png" tvg-country="MX", GOLDEN EDGE
 https://edge.cdnzzz.net:8443/hls/aef8t7z.m3u8?s=Hrq5vB_QWvPjpURzVQ4HAw&e=1619965862
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: CINEMAX" group="Peliculas" logo="https://adictosalatele.com/logos/cinemax.png" tvg-country="MX", CINEMAX
+https://edge.cdnzzz.net:8443/hls/ztv7sh.m3u8?s=t53GXyIdI6wqm3aswujkLg&e=1619966268
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: TNT" group="Peliculas" logo="https://adictosalatele.com/logos/tntlatino.png" tvg-country="MX", TNT
+https://edge.cdnzzz.net:8443/hls/glaldsq.m3u8?s=FbS2B3BS2Sc-B8NIBbmkUw&e=1619966393
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: TNT SERIES" group="Peliculas" logo="https://adictosalatele.com/logos/tntseries.png" tvg-country="MX", TNT SERIES
+https://edge.cdnzzz.net:8443/hls/uw2t3eem.m3u8?s=NW3I86bYr8XZu9rOX8Tvig&e=1619966501
