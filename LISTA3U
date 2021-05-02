@@ -7,7 +7,7 @@ https://edge.cdnzzz.net:8443/hls/1md5d55ngm.m3u8?s=IHElRVw4bYZF7x8ombLosA&e=1619
 https://edge.cdnzzz.net:8443/hls/l051rl.m3u8?s=qR2r4kEiXLo5-0pD4adtug&e=1619958186
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="NY: AMC" group="SERIES" logo="https://adictosalatele.com/amc-en-directo-online-gratis/" tvg-country="NY", AMC
+#EXTINF:0 type="estream" channelId="-1" name="NY: AMC" group="SERIES" logo="https://adictosalatele.com/logos/amclatino.png" tvg-country="NY", AMC
 https://edge.cdnzzz.net:8443/hls/e12qvvmfkp.m3u8?s=yhpsgUbeaYwHgGT5ffXWkQ&e=1619958634
 
 
