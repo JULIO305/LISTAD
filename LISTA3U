@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="NY: A& E" group="SERIES" logo="https://telegratis.org/ae/" tvg-country="NY", A&E
-https://edge.cdnzzz.net:8443/hls/9x6plau.m3u8?s=tYG9_l9tZyeI4Vg8m-aFlA&e=1619945702
+#EXTINF:0 type="estream" channelId="-1" name="NY: A& E" group="SERIES" logo="https://adictosalatele.com/logos/ae.png" tvg-country="NY", A&E
+https://edge.cdnzzz.net:8443/hls/1md5d55ngm.m3u8?s=IHElRVw4bYZF7x8ombLosA&e=1619957960
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="EEUU: AXN" group="SERIES" logo="https://telegratis.org/axn/" tvg-country="EEUU", AXN
