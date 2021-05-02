@@ -10,9 +10,10 @@ https://edge.cdnzzz.net:8443/hls/l051rl.m3u8?s=qR2r4kEiXLo5-0pD4adtug&e=16199581
 #EXTINF:0 type="estream" channelId="-1" name="NY: AMC" group="SERIES" logo="https://adictosalatele.com/amc-en-directo-online-gratis/" tvg-country="NY", AMC
 https://edge.cdnzzz.net:8443/hls/e12qvvmfkp.m3u8?s=yhpsgUbeaYwHgGT5ffXWkQ&e=1619958634
 
+
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX: CINE CANAL" group="PELICULAS" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fes%2Flogo%2Fcinecanal&psig=AOvVaw345S0RHl5ifCFKyFibCLsq&ust=1620018057158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjXmd2bqvACFQAAAAAdAAAAABAI" tvg-country="MX", CINE CANAL
-https://edge.cdnzzz.net:8443/hls/ymv0a1aobkxuf.m3u8?s=c3nVIIiSzCvqsm2lgrk1pQ&e=1619957399
+#EXTINF:0 type="estream" channelId="-1" name="MX: CINE CANAL" group="PELICULAS" logo="https://adictosalatele.com/ver-cinecanal-en-vivo-gratis/" tvg-country="MX", CINE CANAL
+https://edge.cdnzzz.net:8443/hls/ymv0a1aobkxuf.m3u8?s=fV3XQMZPrU71kFzpzUK_JA&e=1619959106
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="AR: EL TRECE" group="ENTRETENIMIENTO" logo="url" tvg-country="AR", EL TRECE
