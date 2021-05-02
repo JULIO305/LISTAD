@@ -12,7 +12,7 @@ https://edge.cdnzzz.net:8443/hls/e12qvvmfkp.m3u8?s=yhpsgUbeaYwHgGT5ffXWkQ&e=1619
 
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX: CINE CANAL" group="PELICULAS" logo="https://adictosalatele.com/ver-cinecanal-en-vivo-gratis/" tvg-country="MX", CINE CANAL
+#EXTINF:0 type="estream" channelId="-1" name="MX: CINE CANAL" group="PELICULAS" logo="https://adictosalatele.com/logos/cinecanal.png" tvg-country="MX", CINE CANAL
 https://edge.cdnzzz.net:8443/hls/ymv0a1aobkxuf.m3u8?s=fV3XQMZPrU71kFzpzUK_JA&e=1619959106
 
 #EXTM3U
