@@ -156,7 +156,7 @@ URL del Video
 #EXTINF:0 type="estream" channelId="-1" name="MX: DE PELICULA" group="grupo nombre" logo="https://adictosalatele.com/logos/depelicula.png" tvg-country="MX", DE PELICULA
 URL del Video
 
-EXTM3U
+#EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: DIRECTV SPORTS 1" group="DEPORTES" logo="https://adictosalatele.com/logos/directvsports.png" tvg-country="MX", DIRECTV SPORTS1
 URL del Video
 
