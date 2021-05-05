@@ -114,3 +114,58 @@ https://edge.cdnzzz.net:8443/hls/glaldsq.m3u8?s=FbS2B3BS2Sc-B8NIBbmkUw&e=1619966
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: TNT SERIES" group="Peliculas" logo="https://adictosalatele.com/logos/tntseries.png" tvg-country="MX", TNT SERIES
 https://edge.cdnzzz.net:8443/hls/uw2t3eem.m3u8?s=NW3I86bYr8XZu9rOX8Tvig&e=1619966501
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: tcm" group="Peliculas" logo="https://adictosalatele.com/logos/tcmlatino.png" tvg-country="MX", TCM
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: SYFY" group="Peliculas" logo="https://adictosalatele.com/logos/syfy.png" tvg-country="MX", SYFY
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FXM" group="Peliculas" logo="https://adictosalatele.com/logos/fxm.png" tvg-country="MX", FXM
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FX" group="Peliculas" logo="https://adictosalatele.com/logos/fx.png" tvg-country="MX", FX
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: CINEMAX" group="Peliculas" logo="https://adictosalatele.com/logos/cinemax.png" tvg-country="MX", CINEMAX
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: SPACE" group="Peliculas" logo="https://adictosalatele.com/logos/space.png" tvg-country="MX", SPACE
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: PARAMOUN" group="Peliculas" logo="https://adictosalatele.com/logos/paramountlatino.png" tvg-country="MX", PARAMOUN
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: CANAL SONY" group="grupo nombre" logo="https://adictosalatele.com/logos/sony.png" tvg-country="MX", CANAL SONY
+URL del Video
+
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: STUDIO UNIVERSAL" group="grupo nombre" logo="https://adictosalatele.com/logos/studiouniversal.png" tvg-country="MX", STUDIO UNIVERSAL
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: UNIVERSAL" group="grupo nombre" logo="https://adictosalatele.com/logos/universalchannel.png" tvg-country="MX", UNIVERSAL
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: WB" group="grupo nombre" logo="https://adictosalatele.com/logos/warner.png" tvg-country="MX", WB
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: DE PELICULA" group="grupo nombre" logo="https://adictosalatele.com/logos/depelicula.png" tvg-country="MX", DE PELICULA
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: Nombre del canal" group="grupo nombre" logo="url" tvg-country="MX", Nombr del Canal
+URL del Video
+
+
