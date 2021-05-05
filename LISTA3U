@@ -156,6 +156,52 @@ URL del Video
 #EXTINF:0 type="estream" channelId="-1" name="MX: DE PELICULA" group="grupo nombre" logo="https://adictosalatele.com/logos/depelicula.png" tvg-country="MX", DE PELICULA
 URL del Video
 
+EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: DIRECTV SPORTS 1" group="DEPORTES" logo="https://adictosalatele.com/logos/directvsports.png" tvg-country="MX", DIRECTV SPORTS1
+URL del Video
 
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: DIRECTV SPORTS 2" group="DEPORTES" logo="https://adictosalatele.com/logos/directvsports2.png" tvg-country="MX", DIRECTV SPORTS 2
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX SPORT AR 1 " group="DEPORTES" logo="https://adictosalatele.com/logos/foxsports1ar.png" tvg-country="MX", FOX SPORT AR 1
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX SPORT AR 2" group="DEPORTES" logo="https://adictosalatele.com/logos/foxsports2ar.png" tvg-country="MX", FOX SPORT AR 2
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX SPORT AR 3" group="DEPORTES" logo="https://adictosalatele.com/logos/foxsports3ar.png" tvg-country="MX", FOX SPORT AR 3
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: FOX SPORT PREMIUM" group="DEPORTES" logo="https://adictosalatele.com/logos/fox-sports-premium1.png" tvg-country="MX", FOX SPORT PREMIUM
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: TNT SPORTS" group="DEPORTES" logo="https://adictosalatele.com/logos/tntsports.png" tvg-country="MX", TNT SPORTS
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN 1" group="DEPORTES" logo="https://adictosalatele.com/logos/espnar.png" tvg-country="MX", ESPN 1
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN 2" group="DEPORTES" logo="url" tvg-country="MX", ESPN 2
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN 3" group="DEPORTES" logo="https://adictosalatele.com/logos/espn3ar.png" tvg-country="MX", ESPN 3
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN +" group="DEPORTES" logo="https://adictosalatele.com/logos/espnmasar.png" tvg-country="MX", ESPN +
+URL del Video
+
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="MX: TyC SPORTS" group="DEPORTES" logo="https://adictosalatele.com/logos/tyc.png" tvg-country="MX", TyC SPORTS
+URL del Video
 
 
