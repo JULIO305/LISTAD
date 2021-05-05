@@ -132,10 +132,6 @@ URL del Video
 URL del Video
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX: CINEMAX" group="Peliculas" logo="https://adictosalatele.com/logos/cinemax.png" tvg-country="MX", CINEMAX
-URL del Video
-
-#EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: SPACE" group="Peliculas" logo="https://adictosalatele.com/logos/space.png" tvg-country="MX", SPACE
 URL del Video
 
