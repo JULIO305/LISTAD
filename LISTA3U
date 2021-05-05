@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="AR: TELEFE" group="ENTRETENIMIENTO" logo="https://adictosalatele.com/logos/telefe.png" tvg-country="AR", TELEFE
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=716DHV4-t9325b8CErzaZQ&e=1620267871
-
-#EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="NY: A&E" group="SERIES" logo="https://adictosalatele.com/logos/ae.png" tvg-country="NY", A&EHD
 https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/1md5d55ngm.m3u8?s=T5eWlmy_4xPL2ZzbEGhCwA&e=1620260754
 
