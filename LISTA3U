@@ -164,8 +164,6 @@ URL del Video
 #EXTINF:0 type="estream" channelId="-1" name="MX: DE PELICULA" group="grupo nombre" logo="https://adictosalatele.com/logos/depelicula.png" tvg-country="MX", DE PELICULA
 URL del Video
 
-#EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX: Nombre del canal" group="grupo nombre" logo="url" tvg-country="MX", Nombr del Canal
-URL del Video
+
 
 
