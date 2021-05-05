@@ -158,7 +158,7 @@ URL del Video
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: DIRECTV SPORTS 1" group="DEPORTES" logo="https://adictosalatele.com/logos/directvsports.png" tvg-country="MX", DIRECTV SPORTS1
-URL del Video
+https://e3.cdnfoxtv.com/ingest01/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=LTPq55747fG_wmfHxyNS-Q&expires=1620269048&rnd=
 
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="MX: DIRECTV SPORTS 2" group="DEPORTES" logo="https://adictosalatele.com/logos/directvsports2.png" tvg-country="MX", DIRECTV SPORTS 2
