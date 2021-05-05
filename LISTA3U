@@ -189,7 +189,7 @@ URL del Video
 URL del Video
 
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN 2" group="DEPORTES" logo="url" tvg-country="MX", ESPN 2
+#EXTINF:0 type="estream" channelId="-1" name="MX: ESPN 2" group="DEPORTES" logo="https://adictosalatele.com/logos/espn2ar.png" tvg-country="MX", ESPN 2
 URL del Video
 
 #EXTM3U
