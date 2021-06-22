@@ -222,4 +222,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0 type="estream" channelId="-1" name="MX: TELERITMO" group="grupo nombre" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5veDt44p2OWGBbtwWL6x-0JLwc9DQbiRsb78id7I_kN-MckjVTM2w4GEqea77rknOBOg&usqp=CAU" tvg-country="MX", TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="AR: TELEFE" group="grupo nombre" logo="http://revistafibra.info/wp-content/uploads/2015/04/telefe-logo.jpg" tvg-country="AR", TELEFE
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?checkedby:iptvcat.com
+
 
